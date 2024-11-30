@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.91.163.3
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1732339013103
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732385996915
+  login: 1732382672754
+money: '0'
+last-account-name: UnVenec0
+logoutlocation:
+  world: e6cdd171-26f2-4e1a-bc48-09bb5083b7c1
+  world-name: world
+  x: 185.3344007016762
+  y: 77.9375
+  z: -360.2455412017277
+  yaw: 4.35009765625
+  pitch: 5.6999993324279785
+lastlocation:
+  world: e6cdd171-26f2-4e1a-bc48-09bb5083b7c1
+  world-name: world
+  x: 174.93053701123048
+  y: 84.0
+  z: -367.1914460937702
+  yaw: 122.0906982421875
+  pitch: 12.150520324707031

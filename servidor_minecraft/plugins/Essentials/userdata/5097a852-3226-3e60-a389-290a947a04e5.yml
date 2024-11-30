@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.78.119.38
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732335024597
+  login: 1732331092891
+money: '0'
+last-account-name: ChunchulinaGames
+lastlocation:
+  world: e6cdd171-26f2-4e1a-bc48-09bb5083b7c1
+  world-name: world
+  x: 176.3721014712881
+  y: 84.0
+  z: -366.01237340037943
+  yaw: 149.11129760742188
+  pitch: 34.97101593017578
+logoutlocation:
+  world: e6cdd171-26f2-4e1a-bc48-09bb5083b7c1
+  world-name: world
+  x: 516.1161081897359
+  y: 116.0
+  z: 921.0574640753049
+  yaw: 130.72900390625
+  pitch: 17.700029373168945

@@ -1,0 +1,40 @@
+{
+  "under_the_moon:root": {
+    "criteria": {
+      "root_0": "2024-11-17 23:30:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-11-17 23:30:41 -0300"
+    },
+    "done": true
+  },
+  "beautify:progression/root": {
+    "criteria": {
+      "Install": "2024-11-17 23:30:41 -0300"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-11-17 23:30:41 -0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-11-17 23:30:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2024-11-17 23:30:49 -0300",
+      "minecraft:savanna": "2024-11-17 23:30:42 -0300"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}

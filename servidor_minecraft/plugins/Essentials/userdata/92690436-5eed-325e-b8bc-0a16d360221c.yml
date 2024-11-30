@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.91.248.36
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732339872149
+  login: 1732330488071
+money: '0'
+last-account-name: C4boSuelto
+logoutlocation:
+  world: e6cdd171-26f2-4e1a-bc48-09bb5083b7c1
+  world-name: world
+  x: 159.8578976031594
+  y: 72.0
+  z: -361.55863843031597
+  yaw: 75.83575439453125
+  pitch: 0.5990613102912903
+lastlocation:
+  world: e6cdd171-26f2-4e1a-bc48-09bb5083b7c1
+  world-name: world
+  x: -5326.543533044201
+  y: 50.5
+  z: -852.8829152836216
+  yaw: -138.11798095703125
+  pitch: 12.00008773803711
